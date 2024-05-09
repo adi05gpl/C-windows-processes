@@ -1,0 +1,7 @@
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\bin\Debug\AutomationCLI.exe.config
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\bin\Debug\AutomationCLI.exe
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\bin\Debug\AutomationCLI.pdb
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\obj\Debug\AutomationCLI.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\obj\Debug\AutomationCLI.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\obj\Debug\AutomationCLI.exe
+C:\Users\adria\source\repos\AutomationCLI\AutomationCLI\obj\Debug\AutomationCLI.pdb
